@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00ace974-cf75-4cb9-909b-56d97176b237" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sdk/acp_sdk.ini" afterPath="$PROJECT_DIR$/sdk/acp_sdk.ini" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -70,8 +68,8 @@
       <file leaf-file-name="acp_sdk.ini" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sdk/acp_sdk.ini">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="897">
-              <caret line="75" column="29" lean-forward="false" selection-start-line="75" selection-start-column="29" selection-end-line="75" selection-end-column="29" />
+            <state relative-caret-position="455">
+              <caret line="54" column="30" lean-forward="false" selection-start-line="54" selection-start-column="30" selection-end-line="54" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -217,12 +215,12 @@
       <workItem from="1542267401014" duration="2617000" />
       <workItem from="1542765035542" duration="893000" />
       <workItem from="1542780434053" duration="312000" />
-      <workItem from="1542787262716" duration="1431000" />
+      <workItem from="1542787262716" duration="1628000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25519000" />
+    <option name="totallyTimeSpent" value="25716000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-567" y="-1080" width="1920" height="1080" extended-state="0" />
@@ -679,8 +677,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sdk/acp_sdk.ini">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="897">
-          <caret line="75" column="29" lean-forward="false" selection-start-line="75" selection-start-column="29" selection-end-line="75" selection-end-column="29" />
+        <state relative-caret-position="455">
+          <caret line="54" column="30" lean-forward="false" selection-start-line="54" selection-start-column="30" selection-end-line="54" selection-end-column="30" />
           <folding />
         </state>
       </provider>
