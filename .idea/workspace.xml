@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00ace974-cf75-4cb9-909b-56d97176b237" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/api_02_b2b/Form_6_2_FrontConsume.php" afterPath="$PROJECT_DIR$/demo/api_02_b2b/Form_6_2_FrontConsume.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sdk/acp_sdk.ini" afterPath="$PROJECT_DIR$/sdk/acp_sdk.ini" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,11 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Form_6_2_FrontConsume.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Form_6_2_FrontConsume.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/demo/api_02_b2b/Form_6_2_FrontConsume.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1139">
-              <caret line="67" column="21" lean-forward="false" selection-start-line="67" selection-start-column="11" selection-end-line="67" selection-end-column="21" />
+            <state relative-caret-position="825">
+              <caret line="69" column="22" lean-forward="false" selection-start-line="69" selection-start-column="22" selection-end-line="69" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -36,8 +37,8 @@
       <file leaf-file-name="index_02_b2b.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index_02_b2b.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="348">
+              <caret line="49" column="36" lean-forward="false" selection-start-line="49" selection-start-column="30" selection-end-line="49" selection-end-column="36" />
               <folding />
             </state>
           </provider>
@@ -46,8 +47,8 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="833">
-              <caret line="49" column="22" lean-forward="false" selection-start-line="49" selection-start-column="18" selection-end-line="49" selection-end-column="22" />
+            <state relative-caret-position="416">
+              <caret line="53" column="35" lean-forward="false" selection-start-line="53" selection-start-column="25" selection-end-line="53" selection-end-column="35" />
               <folding />
             </state>
           </provider>
@@ -56,7 +57,7 @@
       <file leaf-file-name="SDKConfig.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sdk/SDKConfig.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-111">
+            <state relative-caret-position="136">
               <caret line="8" column="39" lean-forward="false" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="39" />
               <folding>
                 <element signature="e#1066#5130#0#PHP" expanded="false" />
@@ -65,11 +66,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="acp_sdk.ini" pinned="false" current-in-tab="true">
+      <file leaf-file-name="acp_sdk.ini" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sdk/acp_sdk.ini">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="455">
-              <caret line="54" column="30" lean-forward="false" selection-start-line="54" selection-start-column="30" selection-end-line="54" selection-end-column="30" />
+            <state relative-caret-position="421">
+              <caret line="52" column="44" lean-forward="false" selection-start-line="52" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -97,8 +98,8 @@
         <option value="$PROJECT_DIR$/pages/dev_faq.php" />
         <option value="$PROJECT_DIR$/pages/api_02_b2b/consume.php" />
         <option value="$PROJECT_DIR$/pages/api_02_b2b/file_transfer.php" />
-        <option value="$PROJECT_DIR$/demo/api_02_b2b/Form_6_2_FrontConsume.php" />
         <option value="$PROJECT_DIR$/sdk/acp_sdk.ini" />
+        <option value="$PROJECT_DIR$/demo/api_02_b2b/Form_6_2_FrontConsume.php" />
       </list>
     </option>
   </component>
@@ -142,12 +143,6 @@
               <item name="bank_pay" type="b2602c69:ProjectViewProjectNode" />
               <item name="bank_pay" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="demo" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="bank_pay" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bank_pay" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="demo" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="api_02_b2b" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="bank_pay" type="b2602c69:ProjectViewProjectNode" />
@@ -215,12 +210,12 @@
       <workItem from="1542267401014" duration="2617000" />
       <workItem from="1542765035542" duration="893000" />
       <workItem from="1542780434053" duration="312000" />
-      <workItem from="1542787262716" duration="1628000" />
+      <workItem from="1542787262716" duration="2813000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25716000" />
+    <option name="totallyTimeSpent" value="26901000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-567" y="-1080" width="1920" height="1080" extended-state="0" />
@@ -633,14 +628,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/demo/api_02_b2b/Form_6_2_FrontConsume.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1139">
-          <caret line="67" column="21" lean-forward="false" selection-start-line="67" selection-start-column="11" selection-end-line="67" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/readme.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="471">
@@ -651,23 +638,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="833">
-          <caret line="49" column="22" lean-forward="false" selection-start-line="49" selection-start-column="18" selection-end-line="49" selection-end-column="22" />
+        <state relative-caret-position="416">
+          <caret line="53" column="35" lean-forward="false" selection-start-line="53" selection-start-column="25" selection-end-line="53" selection-end-column="35" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index_02_b2b.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="348">
+          <caret line="49" column="36" lean-forward="false" selection-start-line="49" selection-start-column="30" selection-end-line="49" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sdk/acp_sdk.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="52" column="44" lean-forward="false" selection-start-line="52" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sdk/SDKConfig.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-111">
+        <state relative-caret-position="136">
           <caret line="8" column="39" lean-forward="false" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="39" />
           <folding>
             <element signature="e#1066#5130#0#PHP" expanded="false" />
@@ -675,10 +670,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sdk/acp_sdk.ini">
+    <entry file="file://$PROJECT_DIR$/demo/api_02_b2b/Form_6_2_FrontConsume.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="455">
-          <caret line="54" column="30" lean-forward="false" selection-start-line="54" selection-start-column="30" selection-end-line="54" selection-end-column="30" />
+        <state relative-caret-position="825">
+          <caret line="69" column="22" lean-forward="false" selection-start-line="69" selection-start-column="22" selection-end-line="69" selection-end-column="22" />
           <folding />
         </state>
       </provider>
