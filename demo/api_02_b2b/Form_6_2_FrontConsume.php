@@ -67,7 +67,7 @@ $params = array(
 		// 2）上送issInsCode字段，该字段的值参考《平台接入接口规范-第5部分-附录》（全渠道平台银行名称-简码对照表）
   		//'issInsCode' => 'ABC',  //发卡机构代码
 	);
-var_dump($params);die;
+//var_dump($params);die;
 com\unionpay\acp\sdk\AcpService::sign ( $params );
 $uri = com\unionpay\acp\sdk\SDKConfig::getSDKConfig()->frontTransUrl;
 echo $uri;

@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="00ace974-cf75-4cb9-909b-56d97176b237" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/demo/api_02_b2b/Form_6_2_FrontConsume.php" afterPath="$PROJECT_DIR$/demo/api_02_b2b/Form_6_2_FrontConsume.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sdk/acp_sdk.ini" afterPath="$PROJECT_DIR$/sdk/acp_sdk.ini" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,8 +16,8 @@
       <file leaf-file-name="Form_6_2_FrontConsume.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/demo/api_02_b2b/Form_6_2_FrontConsume.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="825">
-              <caret line="69" column="22" lean-forward="false" selection-start-line="69" selection-start-column="22" selection-end-line="69" selection-end-column="22" />
+            <state relative-caret-position="842">
+              <caret line="70" column="24" lean-forward="false" selection-start-line="70" selection-start-column="24" selection-end-line="70" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -210,12 +209,12 @@
       <workItem from="1542267401014" duration="2617000" />
       <workItem from="1542765035542" duration="893000" />
       <workItem from="1542780434053" duration="312000" />
-      <workItem from="1542787262716" duration="2813000" />
+      <workItem from="1542787262716" duration="3081000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26901000" />
+    <option name="totallyTimeSpent" value="27169000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-567" y="-1080" width="1920" height="1080" extended-state="0" />
@@ -672,8 +671,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/demo/api_02_b2b/Form_6_2_FrontConsume.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="825">
-          <caret line="69" column="22" lean-forward="false" selection-start-line="69" selection-start-column="22" selection-end-line="69" selection-end-column="22" />
+        <state relative-caret-position="842">
+          <caret line="70" column="24" lean-forward="false" selection-start-line="70" selection-start-column="24" selection-end-line="70" selection-end-column="24" />
           <folding />
         </state>
       </provider>
